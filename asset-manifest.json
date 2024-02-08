@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ViSecure-Website/static/css/main.d93c5da9.css",
-    "main.js": "/ViSecure-Website/static/js/main.68092a38.js",
+    "main.js": "/ViSecure-Website/static/js/main.06d3dade.js",
     "static/js/787.1d990da4.chunk.js": "/ViSecure-Website/static/js/787.1d990da4.chunk.js",
     "static/media/Visecure2.png": "/ViSecure-Website/static/media/Visecure2.4de6c26df43aa2566423.png",
     "static/media/Visecure1.png": "/ViSecure-Website/static/media/Visecure1.5f508dbcbdca280351e5.png",
@@ -15,11 +15,11 @@
     "static/media/visitsToday.png": "/ViSecure-Website/static/media/visitsToday.63601a56a0094362f41f.png",
     "index.html": "/ViSecure-Website/index.html",
     "main.d93c5da9.css.map": "/ViSecure-Website/static/css/main.d93c5da9.css.map",
-    "main.68092a38.js.map": "/ViSecure-Website/static/js/main.68092a38.js.map",
+    "main.06d3dade.js.map": "/ViSecure-Website/static/js/main.06d3dade.js.map",
     "787.1d990da4.chunk.js.map": "/ViSecure-Website/static/js/787.1d990da4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d93c5da9.css",
-    "static/js/main.68092a38.js"
+    "static/js/main.06d3dade.js"
   ]
 }
