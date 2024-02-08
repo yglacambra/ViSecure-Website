@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/visecure-website-react-integrated/static/css/main.7968b03e.css",
-    "main.js": "/visecure-website-react-integrated/static/js/main.2c65a22d.js",
-    "static/js/787.1d990da4.chunk.js": "/visecure-website-react-integrated/static/js/787.1d990da4.chunk.js",
-    "static/media/Visecure2.png": "/visecure-website-react-integrated/static/media/Visecure2.4de6c26df43aa2566423.png",
-    "static/media/Visecure1.png": "/visecure-website-react-integrated/static/media/Visecure1.5f508dbcbdca280351e5.png",
-    "static/media/cmpnyPrtnerIntro.png": "/visecure-website-react-integrated/static/media/cmpnyPrtnerIntro.a8ea847c4a4437989900.png",
-    "static/media/bg2.png": "/visecure-website-react-integrated/static/media/bg2.820de120731ccb23bb1c.png",
-    "static/media/smoothMovesLogo.png": "/visecure-website-react-integrated/static/media/smoothMovesLogo.5302c92a77d231ed4a37.png",
-    "static/media/AboutUs-1.png": "/visecure-website-react-integrated/static/media/AboutUs-1.dc593f764f2849ef912b.png",
-    "static/media/AboutUs-2.png": "/visecure-website-react-integrated/static/media/AboutUs-2.104bd2e5beb5e12045b8.png",
-    "static/media/visecure-icon.png": "/visecure-website-react-integrated/static/media/visecure-icon.1a6a75348faada121aed.png",
-    "static/media/totalVisitors.png": "/visecure-website-react-integrated/static/media/totalVisitors.866a0bdd06d1c6681de3.png",
-    "static/media/visitsToday.png": "/visecure-website-react-integrated/static/media/visitsToday.63601a56a0094362f41f.png",
-    "index.html": "/visecure-website-react-integrated/index.html",
-    "main.7968b03e.css.map": "/visecure-website-react-integrated/static/css/main.7968b03e.css.map",
-    "main.2c65a22d.js.map": "/visecure-website-react-integrated/static/js/main.2c65a22d.js.map",
-    "787.1d990da4.chunk.js.map": "/visecure-website-react-integrated/static/js/787.1d990da4.chunk.js.map"
+    "main.css": "/ViSecure-Website/static/css/main.d93c5da9.css",
+    "main.js": "/ViSecure-Website/static/js/main.68092a38.js",
+    "static/js/787.1d990da4.chunk.js": "/ViSecure-Website/static/js/787.1d990da4.chunk.js",
+    "static/media/Visecure2.png": "/ViSecure-Website/static/media/Visecure2.4de6c26df43aa2566423.png",
+    "static/media/Visecure1.png": "/ViSecure-Website/static/media/Visecure1.5f508dbcbdca280351e5.png",
+    "static/media/cmpnyPrtnerIntro.png": "/ViSecure-Website/static/media/cmpnyPrtnerIntro.a8ea847c4a4437989900.png",
+    "static/media/bg2.png": "/ViSecure-Website/static/media/bg2.820de120731ccb23bb1c.png",
+    "static/media/smoothMovesLogo.png": "/ViSecure-Website/static/media/smoothMovesLogo.5302c92a77d231ed4a37.png",
+    "static/media/AboutUs-1.png": "/ViSecure-Website/static/media/AboutUs-1.dc593f764f2849ef912b.png",
+    "static/media/AboutUs-2.png": "/ViSecure-Website/static/media/AboutUs-2.104bd2e5beb5e12045b8.png",
+    "static/media/visecure-icon.png": "/ViSecure-Website/static/media/visecure-icon.1a6a75348faada121aed.png",
+    "static/media/totalVisitors.png": "/ViSecure-Website/static/media/totalVisitors.866a0bdd06d1c6681de3.png",
+    "static/media/visitsToday.png": "/ViSecure-Website/static/media/visitsToday.63601a56a0094362f41f.png",
+    "index.html": "/ViSecure-Website/index.html",
+    "main.d93c5da9.css.map": "/ViSecure-Website/static/css/main.d93c5da9.css.map",
+    "main.68092a38.js.map": "/ViSecure-Website/static/js/main.68092a38.js.map",
+    "787.1d990da4.chunk.js.map": "/ViSecure-Website/static/js/787.1d990da4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7968b03e.css",
-    "static/js/main.2c65a22d.js"
+    "static/css/main.d93c5da9.css",
+    "static/js/main.68092a38.js"
   ]
 }
